@@ -1,0 +1,106 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.flat-bg {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-bg.png");
+    height: 100vh;
+    background-size: cover;
+
+}
+
+.text {
+    text-align: center;
+}
+
+.flat-card-bg {
+    background-color: #ffffff;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    text-align: center;
+    padding: 10px;
+
+}
+
+.flat1-bg {
+    background-color: #222222;
+    height: 120vh;
+    background-size: cover;
+    padding: 10px;
+
+
+}
+
+.flat-card1 {
+    border-style: solid;
+    background-color: #ffffff;
+    border-radius: 10px;
+    margin: 10px;
+
+
+}
+
+.head1 {
+    font-size: 30px;
+    font-family: "Bree Serif";
+    color: #f19116;
+
+}
+
+.head-2 {
+    font-size: 20px;
+    font-family: "Bree Serif";
+    color: #f19116;
+}
+
+.head-3 {
+    font-size: 20px;
+    font-family: "Bree Serif";
+    color: #0f0e46;
+
+}
+
+.para1 {
+    font-size: 13px;
+    font-family: "Bree Serif";
+    color: #7b8794;
+}
+
+.button1 {
+    font-size: 13px;
+    font-family: "Bree Serif";
+    color: #ffffff;
+    background-color: #f19116;
+    border-width: 0px;
+    border-radius: 5px;
+    height: 30px;
+    width: 90px;
+
+
+}
+
+.image1 {
+    width: 100px;
+    height: 150px;
+}
+
+.space {
+    padding: 20px;
+
+}
+
+.img1 {
+    height: 60vh;
+    width: 100vw;
+}
+
+.flat-list-card {
+    background-color: #222222;
+    padding: 20px;
+    width: 100vw;
+}
+
+.para-2 {
+    font-size: 13px;
+    font-family: "Bree Serif";
+    color: #ffffff;
+
+}
